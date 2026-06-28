@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Security Engineer</b> &nbsp;|&nbsp; OT Security &nbsp;|&nbsp; Cloud Security &nbsp;|&nbsp; Penetration Testing<br/>
-  <sub>BSc Computer Science — KFUPM (3.6/4.0, Dean's List, Second Honor)</sub>
+  <sub>BSc Computer Science — KFUPM </sub>
 </p>
 
 <p align="center">
