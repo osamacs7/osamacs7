@@ -106,18 +106,36 @@ Security engineer with hands-on experience in SIEM monitoring (Splunk), OT syste
 <tr>
 <td width="50%">
 
-**[Senior Project](https://github.com/osamacs7/Senior-Project)** — Multi-Agentic Prosthetic Design
-<br/>Multi-agentic AI system for prosthetic limb design, combining machine learning with domain-specific automation.
+**[Offensive Security, Cyber Deception & SIEM](https://github.com/osamacs7/offensive-security-cyber-deception-and-Security-Information-and-Event-Management-SIEM-)** — Compromise → Honeypot → SIEM
+<br/>Compromised a vulnerable service with Metasploit/MITRE Caldera mapped to ATT&CK TTPs, deployed a honeypot for comparison, then analyzed logs in a SIEM.
 
-`Python` `AI/ML` `Multi-Agent Systems`
+`Metasploit` `MITRE ATT&CK` `Honeypot` `Splunk/Wazuh` `Kali Linux`
 
 </td>
 <td width="50%">
 
-**[Hack The Box](https://github.com/osamacs7/Hack-The-Box)** — CTF Writeups
-<br/>Writeups and tools from HTB challenges covering privilege escalation, web exploitation, and network attacks.
+**[Cyber Deception & SIEM Setup Guide](https://github.com/osamacs7/Cyber-Deception-and-Security-Information-and-Event-Management)** — Lab Environment Guide
+<br/>Setup guides for a hands-on offensive security and SIEM course project — Metasploitable3, Metasploit, and Splunk SIEM configuration.
 
-`Shell` `Pentesting` `CTF`
+`Metasploit` `Metasploitable3` `Splunk` `Documentation`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**[CloudTask](https://github.com/osamacs7/cloudtask)** — DevOps Learning Project
+<br/>Enterprise-style DevOps project built from scratch to learn Git, Docker, AWS, Terraform, and CI/CD.
+
+`Python` `Flask` `Docker` `Terraform` `AWS`
+
+</td>
+<td width="50%">
+
+**[Portfolio](https://github.com/osamacs7/portfolio)** — Personal Website
+<br/>Dynamic glassmorphism portfolio built with Next.js, Tailwind, and Framer Motion, deployed via GitHub Pages.
+
+`TypeScript` `Next.js` `Tailwind` `Framer Motion`
 
 </td>
 </tr>
